@@ -78,3 +78,16 @@ body {
     width: 300px;
     margin-right: auto;
 }
+.cstm-send-btn{
+    background-color:burlywood;
+    padding: 10px 20px;
+    
+}
+.btn:hover{
+background-color: orange;
+}
+.frm-cstm-2{
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+}
